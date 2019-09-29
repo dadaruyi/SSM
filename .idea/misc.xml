@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../Double" />
+    <file type="web" url="file://$PROJECT_DIR$" />
+    <file type="web" url="file://E:/传智播客/就业/数据库和前端/day46_ ssm实战/ssm实战/ssm实战/ssmDemo" />
+    <file type="web" url="file://E:/传智播客/就业/数据库和前端/ssm实战/ssmDemo/ssmDemo" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="E:/传智播客/就业/数据库和前端/ssm实战/ssmDemo/ssmDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/../Double/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
